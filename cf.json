@@ -1,15 +1,13 @@
-{
-  "whitelist": [
-    {
-      "id": 1,
-      "alias": "English Muffin Co.",
-      "domain": "englishmuffin.com",
-      "hashes": [
-        {
-          "channels": [14, 20, 33, 1, 0, 82, 129],
-          "hash": "29c6de13397bd3acc91787cb9e1c5500"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "alias": "English Muffin Co.",
+    "domain": "englishmuffin.com",
+    "hashes": [
+      {
+        "channels": [14, 20, 33, 1, 0, 82, 129],
+        "hash": "29c6de13397bd3acc91787cb9e1c5500"
+      }
+    ]
+  }
+]
